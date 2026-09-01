@@ -1,0 +1,20 @@
+{
+  "STU-1001": {
+    "name": "Sarah Jenkins",
+    "branch": "Computer Science",
+    "cgpa": 9.2,
+    "email": "sarah.j@university.edu"
+  },
+  "STU-1002": {
+    "name": "Marcus Vance",
+    "branch": "Mechanical Engineering",
+    "cgpa": 7.8,
+    "email": "m.vance@university.edu"
+  },
+  "STU-1003": {
+    "name": "Priya Sharma",
+    "branch": "Information Technology",
+    "cgpa": 8.9,
+    "email": "priya.s@university.edu"
+  }
+}
